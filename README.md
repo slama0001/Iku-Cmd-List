@@ -1,4 +1,4 @@
-# Iku-Cmd-List
+# Iku Premium
 
 - drop/stop
 - cdrop (amount) / works with 100k or 1m
